@@ -1,0 +1,37 @@
+[
+  {
+    "id": "3dc0b4ed-75b3-4a84-a299-a172c2ff3d3e",
+    "sku": "HP-346GB-018",
+    "name": "HP Model Max",
+    "description": "Official HP product with manufacturer warranty",
+    "category": "auto-electronics",
+    "brand": "HP",
+    "price": 84409.0,
+    "currency": "USD",
+    "discount_percent": 5.0,
+    "stock": 69,
+    "is_active": true,
+    "rating": 4.0,
+    "tags": [
+      "5g",
+      "camera",
+      "laptop",
+      "acton"
+    ],
+    "image_url": null,
+    "dimensions_cm": {
+      "length": 29.7,
+      "width": 23.3,
+      "height": 2.8
+    },
+    "seller": {
+      "seller_id": "832461d9-a8a4-40f4-a452-b3407691828b",
+      "name": "HP World",
+      "email": "support@hpstore.in",
+      "website": "https://www.hpworld.in/"
+    },
+    "created_at": "2026-01-24T18:20:07.865538Z",
+    "discounted_price": 80188.55,
+    "volume_cm3": 1937.63
+  }
+]
