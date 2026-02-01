@@ -15,7 +15,7 @@ from datetime import datetime
 from typing import List, Dict
 
 load_dotenv()
-app = FastAPI()
+app = FastAPI(title="FastAPI E-commerce Product Service", version="1.0.0")
 
 @app.get("/health")
 def health_check():
